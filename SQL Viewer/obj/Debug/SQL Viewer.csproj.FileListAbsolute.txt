@@ -1,0 +1,10 @@
+C:\Users\evgen\source\repos\SQL Viewer\SQL Viewer\bin\Debug\SQL Viewer.exe.config
+C:\Users\evgen\source\repos\SQL Viewer\SQL Viewer\bin\Debug\SQL Viewer.exe
+C:\Users\evgen\source\repos\SQL Viewer\SQL Viewer\bin\Debug\SQL Viewer.pdb
+C:\Users\evgen\source\repos\SQL Viewer\SQL Viewer\obj\Debug\SQL Viewer.csproj.AssemblyReference.cache
+C:\Users\evgen\source\repos\SQL Viewer\SQL Viewer\obj\Debug\SQL_Viewer.Properties.Resources.resources
+C:\Users\evgen\source\repos\SQL Viewer\SQL Viewer\obj\Debug\SQL Viewer.csproj.GenerateResource.cache
+C:\Users\evgen\source\repos\SQL Viewer\SQL Viewer\obj\Debug\SQL Viewer.csproj.CoreCompileInputs.cache
+C:\Users\evgen\source\repos\SQL Viewer\SQL Viewer\obj\Debug\SQL Viewer.exe
+C:\Users\evgen\source\repos\SQL Viewer\SQL Viewer\obj\Debug\SQL Viewer.pdb
+C:\Users\evgen\source\repos\SQL Viewer\SQL Viewer\obj\Debug\SQL_Viewer.SQLViewer.resources
